@@ -1,0 +1,93 @@
+body {
+  background-color: white;
+  color: black;
+  margin-left: 0px;
+  font-family: sans-serif;
+  font-size: large;
+  margin-top: 10px;
+}
+
+.first {
+  background-color: rgb(56, 56, 56);
+  color: white;
+  width: auto;
+  height: 60px;
+  margin-top: 0;
+  padding-top: 30px;
+  padding-left: 150px;
+}
+
+#mail {
+width: 25px;
+height: 20px;
+margin-top: 0px;
+margin-left: 10px;
+}
+
+.marquee {
+  color: red;
+  background-color: white;
+  width: auto;
+  height: 30px;
+  padding-top: 15px;
+  font-weight: bold;
+  animation: scroll-left 20s linear infinite;
+}
+
+.main {
+  width: 1250px;
+  height: 500px;
+}
+
+.shoprite {
+  background-color: red;
+  color: black;
+  width: 1250px;
+  height: 80px;
+}
+
+.s1 {
+  width: 200px;
+  height: 40px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.red {
+  color: red;
+}
+.tab {
+  text-align: center;
+  padding-top: 10px;
+  font-weight: lighter;
+}
+
+h3, strong {
+  color: red;
+  margin-top: 30px;
+}
+
+h1 {
+  color: rgb(199, 10, 10);
+}
+#yellow {
+  border-radius: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  height: 200px;
+  text-align: center;
+  width: 1000px;
+  background-color: rgba(255, 255, 224, 1); 
+  margin-top: 15px;
+}
+
+.c1, .c2, .c3 {
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+  margin-top: 15px;
+}
+
+/* .s3 {
+  background-color: ;
+} */
